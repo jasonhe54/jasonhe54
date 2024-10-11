@@ -1,1 +1,1 @@
-THis is for CS1200.
+This is for CS1200.
